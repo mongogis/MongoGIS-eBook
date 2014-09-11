@@ -7,4 +7,4 @@ Try to give a comprehensive discussion on how to use MongoGIS in the context of 
 
 * first, about MongoDB and its Geospatial Part; 
 * second, cooperating with tools in the GIS ecosystem;
-* thire, MongoGIS advances
+* third, MongoGIS advances
