@@ -36,5 +36,11 @@ use MongoDB to do spatial data mining
 
 # Part 3 MongoGIS advances
 
-## Chapter 11. Real world Application
+## Chapter 11. Node.js and MongoGIS
+use Javascripts and MongoGIS 
+
+## Chapter 12. Python & MongoGIS
+use pymongo and MongoGIS
+
+## Chapter 13. Real world Application
 GIS Application built upon MongoDB
